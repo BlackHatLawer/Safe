@@ -1,0 +1,44 @@
+.top{
+	margin:20px 50px 0 50px;
+	
+}
+.top>p{
+	width:100%;
+	height:60px;
+	font-height:10px;
+	overflow:hidden;
+	display:block;
+}
+.choise{
+	margin:10px 0 0 20px;
+	width:100%;
+	height:160px;
+}
+.last{
+	position:relative;
+	width:100%;
+	height:30px;
+}
+.last>input{
+	width:70px;
+	height:25px;
+}
+.next{
+	margin-top:20px;
+	width:100px;
+	height:23px;
+	background:#fff;
+	border:1px solid black;
+	border-radius:2px;
+	cursor:pointer;
+	text-align:center;
+}
+.next:hover{
+	background:#e3e3e3;
+}
+.answer{
+	display:block;
+	position:absolute;
+	left:110px;
+	top:2px;
+}
